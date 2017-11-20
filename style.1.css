@@ -12,7 +12,9 @@ h1 {
 
 p {
   font-family: "Montserrat";
-  text-align: center; }
+  text-align: center; 
+  color:white;
+}
 
 body {
   background-image: url("https://wallpaperbrowse.com/media/images/cool-background.jpg"); }
@@ -30,7 +32,7 @@ button {
 h1 {
   text-align: center;
   font-family: Montserrat,sans-serif;
-  color: #333; }
+  color: white; }
 
 .accordion {
   width: 100%;
@@ -96,11 +98,14 @@ h1 {
     .accordion ul li:nth-child(1) {
       background-image: url("images/First_Hackathon_Project.png"); }
     .accordion ul li:nth-child(2) {
-      background-image: url("http://michael-ferry.com/assets/accordion2.jpg"); }
+      background-image: url("images/Second_Hackathon_Project.png"); }
     .accordion ul li:nth-child(3) {
-      background-image: url("http://michael-ferry.com/assets/accordion3.jpg"); }
+      background-image: url("images/SSA.png");
+      background-position: center; }
     .accordion ul li:nth-child(4) {
-      background-image: url("http://michael-ferry.com/assets/accordion4.jpg"); }
+      background-image: url("images/personal-website.png"); 
+      background-position: center;
+    }
     .accordion ul li:nth-child(5) {
       background-image: url("http://michael-ferry.com/assets/accordion5.jpg"); }
     .accordion ul li:nth-child(6) {
